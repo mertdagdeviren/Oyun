@@ -1,0 +1,12 @@
+C:\Users\Mert\source\repos\oyun deneme\bin\Debug\oyun deneme.exe.config
+C:\Users\Mert\source\repos\oyun deneme\bin\Debug\oyun deneme.exe
+C:\Users\Mert\source\repos\oyun deneme\bin\Debug\oyun deneme.pdb
+C:\Users\Mert\source\repos\oyun deneme\bin\Debug\oyun deneme.xml
+C:\Users\Mert\source\repos\oyun deneme\obj\Debug\oyun deneme.vbprojAssemblyReference.cache
+C:\Users\Mert\source\repos\oyun deneme\obj\Debug\oyun_deneme.Form1.resources
+C:\Users\Mert\source\repos\oyun deneme\obj\Debug\oyun_deneme.Resources.resources
+C:\Users\Mert\source\repos\oyun deneme\obj\Debug\oyun deneme.vbproj.GenerateResource.cache
+C:\Users\Mert\source\repos\oyun deneme\obj\Debug\oyun deneme.vbproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\oyun deneme\obj\Debug\oyun deneme.exe
+C:\Users\Mert\source\repos\oyun deneme\obj\Debug\oyun deneme.xml
+C:\Users\Mert\source\repos\oyun deneme\obj\Debug\oyun deneme.pdb
